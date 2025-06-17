@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Soy Flavio Augusto D'Avirro
+## Flavio Augusto D'Avirro
 
 <!--
 **FlavioKde/FlavioKde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-Desarrollador backend y un interés creciente por las buenas prácticas, el clean code y los sistemas distribuidos.  
+Desarrollador backend con un interés creciente por las buenas prácticas, el clean code y los sistemas distribuidos.  
 Me gustan los retos que me hacen pensar y crecer como profesional.
 
 ### 🛠️ Tecnologías y herramientas
