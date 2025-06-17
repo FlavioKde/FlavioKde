@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 👋 ¡Hola! 
+
 
 Desarrollador backend y un interés creciente por las buenas prácticas, el clean code y los sistemas distribuidos.  
 Me gustan los retos que me hacen pensar y crecer como profesional.
