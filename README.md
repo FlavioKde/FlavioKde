@@ -46,6 +46,8 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 **Bases de datos:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1C7EBB?style=flat-square&logo=h2&logoColor=white)
+
 
 
 ### 💼 Actualmente
