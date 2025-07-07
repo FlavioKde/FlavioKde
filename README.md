@@ -48,7 +48,13 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-1C7EBB?style=flat-square&logo=h2&logoColor=white)
 
+**Documentación y diseño Apis Rest:**
 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**Cliente para pruebas y automatización APis:**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### 💼 Actualmente
 - 🔭 Trabajando en: proyectos personales para mejorar mis skills
