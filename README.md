@@ -39,7 +39,7 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 
 **Herramientas de desarrollo:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/USUARIO/REPO/nombre-del-workflow.yml)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/build-Gradle-blueviolet)
