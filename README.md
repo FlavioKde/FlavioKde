@@ -1,5 +1,10 @@
-## Hi there 👋
-## Flavio Augusto D'Avirro
+# 👋 Hola, soy Flavio Augusto D'Avirro
+
+### Desarrollador Junior Backend | APIs Robustas & Clean Code
+
+Soy un desarrollador **Backend Junior** con una base sólida en **Java y Spring Boot**, y experiencia en otros stacks como **Node.js y PHP/Laravel**. Apasionado por crear lógica de negocio robusta, APIs eficientes y soluciones escalables. Mi transición al sector IT me ha dotado de una fuerte capacidad analítica y una mentalidad orientada a resolver problemas complejos de forma metódica.
+
+**Intereses:** Arquitectura de Software, Clean Code, Pruebas (Testing) y Bases de Datos.
 
 <!--
 **FlavioKde/FlavioKde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">🚧 WIP – En construcción 🚧</h1>
+
 
 ---
 
@@ -25,7 +30,7 @@ Here are some ideas to get you started:
 Desarrollador backend con un interés creciente por las buenas prácticas, el clean code y los sistemas distribuidos.  
 Me gustan los retos que me hacen pensar y crecer como profesional.
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Stack Tecnológico
 
 **Lenguajes de programación:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -63,7 +68,21 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 
 <!-- Aquí puedes pegar la sección de tecnologías que ya hicimos -->
 
-### 📫 Contacto
-- ✉️ [flaviodavirro@gmail.com]
-- 💼 [www.linkedin.com/in/flavio-augusto-davirro]
+### 🌟 Proyectos Destacados
+
+#### [**🃏 Blackjack Game**](https://github.com/FlavioKde/s05t01n01-blackjack)
+Una implementación del clásico juego de Blackjack en Java. Incluye lógica de juego completa, manejo de estados y una arquitectura modular.
+- **Tecnologías:** spring boot, Java, gradle, JUnit, swagger
+- [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)](https://github.com/FlavioKde/s05t01n01-blackjack/actions)
+
+#### [**🎨 Video Art Platform**](https://github.com/tu-usuario/proyecto-artista)
+Plataforma web desarrollada para una artista de videoarte, enfocada en la visualización optimizada de contenido multimedia.
+- **Tecnologías:** React, JavaScript, CSS3
+
+### 📫 Contacto o ¿Trabajamos juntos?
+
+- ✉️ **Email:** [flaviodavirro@gmail.com](mailto:flaviodavirro@gmail.com)
+- 💼 **LinkedIn:** [Flavio Augusto D'Avirro](https://www.linkedin.com/in/flaviodavirro/)
+- 💻 **GitHub:** [FlavioKde](https://github.com/FlavioKde)
+
 
