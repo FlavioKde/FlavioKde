@@ -75,9 +75,10 @@ Una implementación del clásico juego de Blackjack en Java. Incluye lógica de 
 - **Tecnologías:** spring boot, Java, gradle, JUnit, swagger
 - [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)](https://github.com/FlavioKde/s05t01n01-blackjack/actions)
 
-#### [**🎨 Video Art Platform**](https://github.com/tu-usuario/proyecto-artista)
-Plataforma web desarrollada para una artista de videoarte, enfocada en la visualización optimizada de contenido multimedia.
-- **Tecnologías:** React, JavaScript, CSS3
+#### [**🎨 Architecture Platform**](https://github.com/FlavioKde/com.propydis.studio)
+Plataforma web desarrollada para un estudio de arquitectura, con backend y frontend integrados, orientada a exhibir proyectos y propiedades disponibles para venta o alquiler. Actualmente trabajando en WebSockets para comunicación asíncrona.
+- **Tecnologías:** Spring boot, Spring Security, MongoDb, Mysql, Cloudinary, Junit, Mockito, Gradle.
+- **arquitectura:** DDD.
 
 ### 📫 Contacto o ¿Trabajamos juntos?
 
