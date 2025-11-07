@@ -74,6 +74,12 @@ Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foc
 ![Taiga](https://img.shields.io/badge/Taiga-Project%20Management-green?style=flat)
 ![User Stories](https://img.shields.io/badge/User%20Stories-Functional%20Focus-orange?style=flat)
 
+## 📊 Estadísticas de GitHub
+
+![FlavioKde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioKde&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlavioKde&theme=tokyonight)
+
 ### 💼 Actualmente
 - 🔭 Trabajando en: proyectos personales para mejorar mis skills
 - 🌱 Aprendiendo más sobre: arquitectura con Spring Boot y buenas prácticas de testing con JUnit
