@@ -61,14 +61,15 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 **Cliente para pruebas y automatización APis:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## 🧠 Colaboración ágil en proyectos reales
+## 🧩 Flujo de trabajo colaborativo
 
-Actualmente colaboro en un proyecto donde aplicamos metodologías ágiles con enfoque profesional:
+Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foco en autenticidad profesional y validación continua:
 
-- 🌀 **Scrum**: Participación activa en sprints, planificación y retrospectivas
-- 📋 **Taiga**: Gestión de epics, historias de usuario (HU) y tareas técnicas
-- 🧩 **Historias de usuario funcionales**: Redacción clara, orientada al valor para el usuario
-- ✅ **Validación metódica**: Cada entrega pasa por revisión y testing antes de ser integrada
+- 🌀 **Scrum**: Participación activa en sprints, planificación, daily meetings y retrospectivas
+- 🗂️ **Taiga**: Gestión de epics, historias de usuario (HU) y tareas técnicas
+- ✍️ **Historias de usuario funcionales**: Redacción clara, centrada en el valor para el usuario final
+- 🔄 **Validación metódica**: Cada entrega pasa por revisión, testing y control de cambios antes de ser integrada
+
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=flat)
 ![Taiga](https://img.shields.io/badge/Taiga-Project%20Management-green?style=flat)
 ![User Stories](https://img.shields.io/badge/User%20Stories-Functional%20Focus-orange?style=flat)
