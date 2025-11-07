@@ -76,9 +76,21 @@ Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foc
 
 ## 📊 Estadísticas de GitHub
 
-![FlavioKde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioKde&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlavioKde&theme=github_dark)
+### 🔢 Actividad general
+
+![FlavioKde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioKde&show_icons=true&theme=tokyonight)
+
+### 🧠 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=tokyonight)
+
+### 🔥 Racha de contribuciones
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlavioKde&theme=tokyonight)
+
+### 👁️ Visitas al perfil
+
+![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&color=blue)
 
 ### 💼 Actualmente
 - 🔭 Trabajando en: proyectos personales para mejorar mis skills
