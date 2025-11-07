@@ -2,7 +2,7 @@
 
 ### Desarrollador Junior Backend | APIs Robustas & Clean Code
 
-Soy un desarrollador **Backend Junior** con una base sólida en **Java y Spring Boot**, y experiencia en otros stacks como **Node.js y PHP/Laravel**. Apasionado por crear lógica de negocio robusta, APIs eficientes y soluciones escalables. Mi transición al sector IT me ha dotado de una fuerte capacidad analítica y una mentalidad orientada a resolver problemas complejos de forma metódica.
+Soy un desarrollador **Backend Junior** con una base sólida en **Java y Spring Boot**, y experiencia en otros stacks como **PHP/Laravel**. Apasionado por crear lógica de negocio robusta, APIs eficientes y soluciones escalables. Mi transición al sector IT me ha dotado de una fuerte capacidad analítica y una mentalidad orientada a resolver problemas complejos de forma metódica.
 
 **Intereses:** Arquitectura de Software, Clean Code, Pruebas (Testing) y Bases de Datos.
 
