@@ -61,6 +61,15 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 **Cliente para pruebas y automatización APis:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+## 🧠 Colaboración ágil en proyectos reales
+
+Actualmente colaboro en un proyecto donde aplicamos metodologías ágiles con enfoque profesional:
+
+- 🌀 **Scrum**: Participación activa en sprints, planificación y retrospectivas
+- 📋 **Taiga**: Gestión de epics, historias de usuario (HU) y tareas técnicas
+- 🧩 **Historias de usuario funcionales**: Redacción clara, orientada al valor para el usuario
+- ✅ **Validación metódica**: Cada entrega pasa por revisión y testing antes de ser integrada
+
 ### 💼 Actualmente
 - 🔭 Trabajando en: proyectos personales para mejorar mis skills
 - 🌱 Aprendiendo más sobre: arquitectura con Spring Boot y buenas prácticas de testing con JUnit
