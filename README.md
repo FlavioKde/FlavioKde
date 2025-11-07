@@ -69,6 +69,9 @@ Actualmente colaboro en un proyecto donde aplicamos metodologías ágiles con en
 - 📋 **Taiga**: Gestión de epics, historias de usuario (HU) y tareas técnicas
 - 🧩 **Historias de usuario funcionales**: Redacción clara, orientada al valor para el usuario
 - ✅ **Validación metódica**: Cada entrega pasa por revisión y testing antes de ser integrada
+![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=flat)
+![Taiga](https://img.shields.io/badge/Taiga-Project%20Management-green?style=flat)
+![User Stories](https://img.shields.io/badge/User%20Stories-Functional%20Focus-orange?style=flat)
 
 ### 💼 Actualmente
 - 🔭 Trabajando en: proyectos personales para mejorar mis skills
