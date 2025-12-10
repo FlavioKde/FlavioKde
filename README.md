@@ -82,7 +82,7 @@ Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foc
 
 ### 🧠 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-five-gray-30.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=tokyonight)
 
 ### 🔥 Racha de contribuciones
 
