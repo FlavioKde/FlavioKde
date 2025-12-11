@@ -86,7 +86,7 @@ Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foc
 
 ### 🔥 Racha de contribuciones
 
-s![GitHub Streak](https://streak-stats.demolab.com/?user=FlavioKde&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=FlavioKde&theme=tokyonight)
 
 
 ### 👁️ Visitas al perfil
