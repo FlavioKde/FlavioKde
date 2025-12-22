@@ -61,8 +61,8 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 **Cliente para pruebas y automatización APis:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Deply(CI)**
-[<img alt="Website Deployed for Free with FTP Deploy Action" src="https://img.shields.io/badge/Website deployed for free with-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=2b9348">](https://github.com/SamKirkland/FTP-Deploy-Action)
+**Deploy(CI)**
+[<img alt="FTP Deploy Action" src="https://img.shields.io/badge/FTP%20Deploy-Action-2b9348?style=flat">](https://github.com/SamKirkland/FTP-Deploy-Action)
 
 ## 🧩 Flujo de trabajo colaborativo
 
