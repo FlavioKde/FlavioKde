@@ -61,6 +61,9 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 **Cliente para pruebas y automatización APis:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+**Deply(CI)**
+https://github.com/SamKirkland/FTP-Deploy-Action#badge
+
 ## 🧩 Flujo de trabajo colaborativo
 
 Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foco en autenticidad profesional y validación continua:
