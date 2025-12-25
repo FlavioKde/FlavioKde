@@ -122,9 +122,7 @@ Plataforma web desarrollada para un estudio de arquitectura, con backend y front
 
 ### 📫 Contacto o ¿Trabajamos juntos?
 
-- ![Web](https://img.shields.io/badge/Web-000000?style=flat&logo=link&logoColor=white)
-
- **Website:** [flaviodavirro.net](https://flaviodavirro.net)
+- ![Web](https://img.shields.io/badge/Web-000000?style=flat&logo=link&logoColor=white) **Website:** [flaviodavirro.net](https://flaviodavirro.net)
 - ✉️ **Email:** [flaviodavirro@gmail.com](mailto:flaviodavirro@gmail.com)
 - 💼 **LinkedIn:** [Flavio Augusto D'Avirro](https://www.linkedin.com/in/flaviodavirro/)
 - 💻 **GitHub:** [FlavioKde](https://github.com/FlavioKde)
