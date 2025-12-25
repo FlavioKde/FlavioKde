@@ -63,7 +63,10 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Deploy & CI/CD:**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF style=flat&logo=githubactions&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat&logo=openssh&logoColor=white)
 [<img alt="FTP Deploy Action" src="https://img.shields.io/badge/FTP%20Deploy-Action-2b9348?style=flat">](https://github.com/SamKirkland/FTP-Deploy-Action)
 
 ## 🧩 Flujo de trabajo colaborativo
