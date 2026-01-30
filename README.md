@@ -87,7 +87,7 @@ Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foc
 ### 🔢 Actividad general
 
 ![FlavioKde's GitHub Stats](https://github-readme-stats-five-gray-30.vercel.app/api?username=FlavioKde&show_icons=true&theme=tokyonight)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioKde)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioKde)](https://github.com/FlavioKde/github-readme-stats)
 
 
 ### 🧠 Lenguajes más usados
