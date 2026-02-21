@@ -86,7 +86,10 @@ Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foc
 
 ### 🔢 Actividad general
 
-[![Flavio's GitHub stats](https://github-readme-stats-mu-rust-46.vercel.app/api?username=FlavioKde)](https://github.com/FlavioKde/github-readme-stats)
+![WIP](https://img.shields.io/badge/status-WIP-orange?style=for-the-badge)
+
+
+<!-- [![Flavio's GitHub stats](https://github-readme-stats-mu-rust-46.vercel.app/api?username=FlavioKde)](https://github.com/FlavioKde/github-readme-stats) -->
 
 ### 🧠 Lenguajes más usados
 
