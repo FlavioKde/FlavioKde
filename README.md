@@ -1,10 +1,11 @@
 # 👋 Hola, soy Flavio Augusto D'Avirro
 
-### Desarrollador Junior Backend | APIs Robustas & Clean Code
+### Desarrollador Backend | Java · Spring Boot · SQL · APIs REST
 
-Soy un desarrollador **Backend Junior** con una base sólida en **Java y Spring Boot**, y experiencia en otros stacks como **PHP/Laravel**. Apasionado por crear lógica de negocio robusta, APIs eficientes y soluciones escalables. Mi transición al sector IT me ha dotado de una fuerte capacidad analítica y una mentalidad orientada a resolver problemas complejos de forma metódica.
+Soy desarrollador backend con experiencia en Java y Spring Boot, y conocimientos complementarios en PHP/Laravel y desarrollo fullstack. Me interesa especialmente el análisis y resolución de incidencias y el mantenimiento de aplicaciones en entornos reales.
+Mi transición al sector IT reforzó mi capacidad analítica y mi forma metódica de abordar problemas técnicos. Disfruto entender cómo funcionan los sistemas, investigar errores y construir soluciones claras y mantenibles.
 
-**Intereses:** Arquitectura de Software, Clean Code, Pruebas (Testing) y Bases de Datos.
+**Intereses:** Arquitectura de Software, Clean Code, Apis rest, Ciberseguridad y Bases de Datos.
 
 <!--
 **FlavioKde/FlavioKde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +26,6 @@ Here are some ideas to get you started:
 
 ---
 
-
-
-Desarrollador backend con un interés creciente por las buenas prácticas, el clean code y los sistemas distribuidos.  
-Me gustan los retos que me hacen pensar y crecer como profesional.
 
 ### 🛠️ Stack Tecnológico
 
@@ -71,7 +68,7 @@ Me gustan los retos que me hacen pensar y crecer como profesional.
 
 ## 🧩 Flujo de trabajo colaborativo
 
-Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foco en autenticidad profesional y validación continua:
+Colaboré en un proyecto real aplicando metodologías ágiles con foco en autenticidad profesional y validación continua:
 
 - 🌀 **Scrum**: Participación activa en sprints, planificación, daily meetings y retrospectivas
 - 🗂️ **Taiga**: Gestión de epics, historias de usuario (HU) y tareas técnicas
@@ -109,8 +106,8 @@ Actualmente colaboro en un proyecto real aplicando metodologías ágiles con foc
 
 ### 💼 Actualmente
 - 🔭 Trabajando en: proyectos personales para mejorar mis skills
-- 🌱 Aprendiendo más sobre: arquitectura con Spring Boot y buenas prácticas de testing con JUnit
-- 💬 Me interesa hablar sobre: desarrollo backend, bases de datos y productividad para devs
+- 🌱 Aprendiendo más sobre: Spring Boot, SQL, ciberseguridad, redes y buenas prácticas de testing con JUnit
+- 💬 Me interesa hablar sobre: desarrollo backend, bases de datos y ciberseguridad
 
 <!-- Aquí puedes pegar la sección de tecnologías que ya hicimos -->
 
