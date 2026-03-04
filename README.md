@@ -7,26 +7,6 @@ Mi transición al sector IT reforzó mi capacidad analítica y mi forma metódic
 
 **Intereses:** Arquitectura de Software, Clean Code, Apis rest, Ciberseguridad y Bases de Datos.
 
-<!--
-**FlavioKde/FlavioKde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
----
-
-
 ### 🛠️ Stack Tecnológico
 
 **Lenguajes de programación:**  
