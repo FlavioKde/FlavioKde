@@ -79,7 +79,7 @@ Colaboré en un proyecto real aplicando metodologías ágiles con foco en autent
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FlavioKde&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats-ashy-mu.vercel.app/api/streak/svg?user=FlavioKde&v=10)](https://github-readme-streak-stats-ashy-mu.vercel.app/api/streak/svg?user=FlavioKde)
+[![GitHub Streak](https://github-readme-streak-stats-ashy-mu.vercel.app/api/streak/svg?user=FlavioKde&v=11)](https://github-readme-streak-stats-ashy-mu.vercel.app/api/streak/svg?user=FlavioKde)
 
 [![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
 
