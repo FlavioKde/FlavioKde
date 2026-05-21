@@ -97,6 +97,9 @@ Generador de estadísticas de GitHub basado en la API de GitHub. Implementado en
 - **Tecnologías:** javaScript, Node.js, GitHub GraphQL API, Vercel Serverless Functions
 - [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/build.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions)
 
+-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/build.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions)
+
+
 #### [**🃏 Blackjack Game**](https://github.com/FlavioKde/s05t01n01-blackjack)
 Una implementación del clásico juego de Blackjack en Java. Incluye lógica de juego completa, manejo de estados y una arquitectura modular.
 - **Tecnologías:** spring boot, Java, gradle, JUnit, swagger
