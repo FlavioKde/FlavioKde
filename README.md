@@ -92,8 +92,7 @@ Colaboré en un proyecto real aplicando metodologías ágiles con foco en autent
 
 ### 🌟 Proyectos Destacados
 
-#### [** ![GitHub](https://img.icons8.com/ios-glyphs/30/github.png)
- GitHub Stats**](https://github.com/FlavioKde/github-streak-stats-api)
+#### [** ![GitHub](https://img.icons8.com/ios-glyphs/30/github.png) GitHub Stats**](https://github.com/FlavioKde/github-streak-stats-api)
 Generador de estadísticas de GitHub basado en la API de GitHub. Implementado en JavaScript/Node.js, con arquitectura modular, pruebas unitarias e integración, y desplegado en Vercel mediante funciones sin servidor.
 - **Tecnologías:** javaScript, Node.js, GitHub GraphQL API, Vercel Serverless Functions
 - [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/ci.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions)
