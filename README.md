@@ -77,7 +77,7 @@ Colaboré en un proyecto real aplicando metodologías ágiles con foco en autent
 
 ### 🔥 Racha de contribuciones
 
-[![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde&v=2)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
+[![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde&v=3)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
 
 ### 👁️ Visitas al perfil
 
