@@ -81,11 +81,7 @@ Colaboré en un proyecto real aplicando metodologías ágiles con foco en autent
 
 ### 👁️ Visitas al perfil
 
-![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&color=blue)
-![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&label=PROFILE%20VIEWS&color=blue&style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&label=Profile%20Views&color=blue&style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&label=Visitas&color=brightgreen&style=flat)
-
+![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge)
 
 ### 💼 Actualmente
 - 🔭 Trabajando en: proyectos personales para mejorar mis skills
