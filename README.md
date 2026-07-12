@@ -71,6 +71,7 @@ Colaboré en un proyecto real aplicando metodologías ágiles con foco en autent
 ### 🧠 Lenguajes más usados
 
 ![WIP](https://img.shields.io/badge/status-WIP-orange?style=for-the-badge)
+[![GitHub Streak stats API](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde&v=1)(https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde)
 
 
 <!-- ![Top Langs](https://github-readme-stats-five-gray-30.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=tokyonight) -->
