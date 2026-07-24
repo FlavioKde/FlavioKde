@@ -9,7 +9,6 @@
 <h3 align="center">Backend Developer | Java · Spring Boot · SQL · REST APIs</h3>
 
 ---
-# 👋 Hey, i Flavio Augusto D'Avirro
 
 ## 🚀 About Me
 
@@ -21,16 +20,7 @@ My transition into IT strengthened my analytical skills and methodical approach 
 
 ---
 
-# 👋 Hola, soy Flavio Augusto D'Avirro
-
-### Desarrollador Backend | Java · Spring Boot · SQL · APIs REST
-
-Soy desarrollador backend con experiencia en Java y Spring Boot, y conocimientos complementarios en PHP/Laravel y desarrollo fullstack. Me interesa especialmente el análisis y resolución de incidencias y el mantenimiento de aplicaciones en entornos reales.
-Mi transición al sector IT reforzó mi capacidad analítica y mi forma metódica de abordar problemas técnicos. Disfruto entender cómo funcionan los sistemas, investigar errores y construir soluciones claras y mantenibles.
-
-**Intereses:** Arquitectura de Software, Clean Code, Apis rest, Ciberseguridad y Bases de Datos.
-
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 
 **Lenguajes de programación:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -69,46 +59,53 @@ Mi transición al sector IT reforzó mi capacidad analítica y mi forma metódic
 ![SSH](https://img.shields.io/badge/SSH-000000?style=flat&logo=openssh&logoColor=white)
 [<img alt="FTP Deploy Action" src="https://img.shields.io/badge/FTP%20Deploy-Action-2b9348?style=flat">](https://github.com/SamKirkland/FTP-Deploy-Action)
 
-## 🧩 Flujo de trabajo colaborativo
+---
 
-Colaboré en un proyecto real aplicando metodologías ágiles con foco en autenticidad profesional y validación continua:
+## 🧩 Collaborative Workflow
 
-- 🌀 **Scrum**: Participación activa en sprints, planificación, daily meetings y retrospectivas
-- 🗂️ **Taiga**: Gestión de epics, historias de usuario (HU) y tareas técnicas
-- ✍️ **Historias de usuario funcionales**: Redacción clara, centrada en el valor para el usuario final
-- 🔄 **Validación metódica**: Cada entrega pasa por revisión, testing y control de cambios antes de ser integrada
+I collaborated on a real-world project using agile methodologies with a focus on professional authenticity and continuous validation:
+
+- **🌀 Scrum:** Active participation in sprints, planning, daily meetings, and retrospectives
+- **🗂️ Taiga:** Management of epics, user stories (US), and technical tasks
+- **✍️ Functional User Stories:** Clear writing focused on end-user value
+- **🔄 Methodical Validation:** Each delivery goes through review, testing, and change control before integration
 
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=flat)
 ![Taiga](https://img.shields.io/badge/Taiga-Project%20Management-green?style=flat)
 ![User Stories](https://img.shields.io/badge/User%20Stories-Functional%20Focus-orange?style=flat)
 
-## 📊 Estadísticas de GitHub
+---
 
-### 🔢 Actividad general
+## 📊 GitHub Stats
+
+### 🔢 General Activity
 
 ![WIP](https://img.shields.io/badge/status-WIP-orange?style=for-the-badge)
 
 
 <!-- [![Flavio's GitHub stats](https://github-readme-stats-mu-rust-46.vercel.app/api?username=FlavioKde)](https://github.com/FlavioKde/github-readme-stats) -->
 
-### 🧠 Lenguajes más usados
+### 🧠 Most Used Languages
 
 [![GitHub Streak stats API](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde&v=3)](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde)
 
-### 🔥 Racha de contribuciones
+### 🔥 Contribution Streak
 
 [![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde&v=7)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
 
-### 👁️ Visitas al perfil
+### 👁️ Profile views
 
 ![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge)
 
-### 💼 Actualmente
-- 🔭 Trabajando en: proyectos personales para mejorar mis skills
-- 🌱 Aprendiendo más sobre: Spring Boot, SQL, ciberseguridad, redes y buenas prácticas de testing con JUnit
-- 💬 Me interesa hablar sobre: desarrollo backend, bases de datos y ciberseguridad
+--- 
 
-<!-- Aquí puedes pegar la sección de tecnologías que ya hicimos -->
+### 💼 Currently
+
+- 🔭 **Working on:** Personal projects to improve my skills
+- 🌱 **Learning more about:** Spring Boot, SQL, cybersecurity, networking, and JUnit testing best practices
+- 💬 **Interested in discussing:** Backend development, databases, and cybersecurity
+
+---
 
 ### 🌟 Proyectos Destacados
 
@@ -127,11 +124,18 @@ Plataforma web desarrollada para un estudio de arquitectura, con backend y front
 - **Tecnologías:** Spring boot, Spring Security, MongoDb, Mysql, Cloudinary, Junit, Mockito, Gradle.
 - **arquitectura:** DDD.
 
-### 📫 Contacto o ¿Trabajamos juntos?
+## 📫 Contact or Let's Work Together?
 
-- ![Web](https://img.shields.io/badge/Web-000000?style=flat&logo=link&logoColor=white) **Website:** [flaviodavirro.net](https://flaviodavirro.net)
+- 🌐 **Website:** [flaviodavirro.net](https://flaviodavirro.net)
 - ✉️ **Email:** [flaviodavirro@gmail.com](mailto:flaviodavirro@gmail.com)
-- 💼 **LinkedIn:** [Flavio Augusto D'Avirro](https://www.linkedin.com/in/flaviodavirro/)
+- 💼 **LinkedIn:** [Flavio Augusto D'Avirro](https://linkedin.com/in/flaviodavirro)
 - 💻 **GitHub:** [FlavioKde](https://github.com/FlavioKde)
+
+---
+
+<p align="center">
+  <i>⭐️ If you like what you see, feel free to star some repositories or connect with me!</i>
+</p>
+
 
 
