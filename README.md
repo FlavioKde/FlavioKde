@@ -114,7 +114,8 @@ A GitHub statistics generator based on the GitHub API. Implemented in JavaScript
 
 **Tech Stack:** JavaScript, Node.js, GitHub GraphQL API, Vercel Serverless Functions
 
-[![Repo]([![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/ci.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions))
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/ci.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions)
+
 [![Demo](https://img.shields.io/badge/-Live_Demo-000000?style=flat-square&logo=vercel)](https://github-stats-generator.vercel.app)
 
 #### [**![GitHub](https://img.icons8.com/ios-glyphs/30/github.png) GitHub Stats**](https://github.com/FlavioKde/github-streak-stats-api)
