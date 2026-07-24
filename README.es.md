@@ -1,0 +1,157 @@
+<!-- Selector de Idioma -->
+<p align="center">
+  <a href="./README.md">🇬🇧 English</a> | <b>🇪🇸 Español</b>
+</p>
+
+---
+
+<h1 align="center">👋 Hola, soy Flavio Augusto D'Avirro</h1>
+<h3 align="center">Desarrollador Backend | Java · Spring Boot · SQL · APIs REST</h3>
+
+---
+
+## 🚀 Sobre Mí
+
+Soy desarrollador backend con experiencia en **Java** y **Spring Boot**, y conocimientos complementarios en **PHP/Laravel** y desarrollo fullstack. Me interesa especialmente el **análisis y resolución de incidencias** y el **mantenimiento de aplicaciones** en entornos reales.
+
+Mi transición al sector IT reforzó mi capacidad analítica y mi forma metódica de abordar problemas técnicos. Disfruto entender cómo funcionan los sistemas, investigar errores y construir soluciones claras y mantenibles.
+
+**Áreas de interés:** Arquitectura de Software, Clean Code, APIs REST, Ciberseguridad y Bases de Datos.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<details>
+<summary><b>Lenguajes de programación</b></summary>
+
+- Java
+- JavaScript
+- PHP
+</details>
+
+<details>
+<summary><b>Frameworks y librerías</b></summary>
+
+- Spring Boot
+- Laravel
+- React
+- JUnit
+</details>
+
+<details>
+<summary><b>Herramientas de desarrollo</b></summary>
+
+- Git & GitHub
+- Docker
+- Maven & Gradle
+- IntelliJ IDEA
+</details>
+
+<details>
+<summary><b>Bases de datos</b></summary>
+
+- MySQL
+- MongoDB
+- H2
+</details>
+
+<details>
+<summary><b>Documentación y pruebas de APIs</b></summary>
+
+- Swagger (Documentación de APIs)
+- Postman (Pruebas y automatización de APIs)
+</details>
+
+<details>
+<summary><b>Deploy & CI/CD</b></summary>
+
+- GitHub Actions
+- SonarCloud
+- Railway
+- SSH / FTP Deploy Action
+</details>
+
+---
+
+## 🧩 Flujo de trabajo colaborativo
+
+Colaboré en un proyecto real aplicando metodologías ágiles con foco en autenticidad profesional y validación continua:
+
+- **🌀 Scrum:** Participación activa en sprints, planificación, daily meetings y retrospectivas
+- **🗂️ Taiga:** Gestión de epics, historias de usuario (HU) y tareas técnicas
+- **✍️ Historias de usuario funcionales:** Redacción clara, centrada en el valor para el usuario final
+- **🔄 Validación metódica:** Cada entrega pasa por revisión, testing y control de cambios antes de ser integrada
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<!-- Estas secciones se actualizarán automáticamente si usas los servicios correspondientes -->
+
+### 🔢 Actividad general
+![FlavioKde's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioKde&show_icons=true&theme=radical)
+
+### 🧠 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=radical)
+
+### 🔥 Racha de contribuciones
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlavioKde&theme=radical)
+
+### 👁️ Visitas al perfil
+![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&color=blueviolet)
+
+---
+
+## 💼 Actualmente
+
+- 🔭 **Trabajando en:** Proyectos personales para mejorar mis habilidades
+- 🌱 **Aprendiendo más sobre:** Spring Boot, SQL, ciberseguridad, redes y buenas prácticas de testing con JUnit
+- 💬 **Me interesa hablar sobre:** Desarrollo backend, bases de datos y ciberseguridad
+
+---
+
+## 🌟 Proyectos Destacados
+
+### 📊 Generador de Estadísticas de GitHub
+Generador de estadísticas de GitHub basado en la API de GitHub. Implementado en JavaScript/Node.js, con arquitectura modular, pruebas unitarias e integración, y desplegado en Vercel mediante funciones sin servidor.
+
+**Tecnologías:** JavaScript, Node.js, GitHub GraphQL API, Vercel Serverless Functions
+
+[![Repo](https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/github-stats)
+[![Demo](https://img.shields.io/badge/-Demo_en_vivo-000000?style=flat-square&logo=vercel)](https://github-stats-generator.vercel.app)
+
+---
+
+### 🃏 Blackjack Game
+Una implementación del clásico juego de Blackjack en Java. Incluye lógica de juego completa, manejo de estados y una arquitectura modular.
+
+**Tecnologías:** Spring Boot, Java, Gradle, JUnit, Swagger
+
+[![Repo](https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/blackjack-game)
+
+---
+
+### 🎨 Architecture Platform
+Plataforma web desarrollada para un estudio de arquitectura, con backend y frontend integrados, orientada a exhibir proyectos y propiedades disponibles para venta o alquiler. Actualmente trabajando en WebSockets para comunicación asíncrona.
+
+**Tecnologías:** Spring Boot, Spring Security, MongoDB, MySQL, Cloudinary, JUnit, Mockito, Gradle
+
+**Arquitectura:** DDD (Domain-Driven Design)
+
+[![Repo](https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/architecture-platform)
+
+---
+
+## 📫 Contacto o ¿Trabajamos juntos?
+
+- 🌐 **Web:** [flaviodavirro.net](https://flaviodavirro.net)
+- ✉️ **Email:** [flaviodavirro@gmail.com](mailto:flaviodavirro@gmail.com)
+- 💼 **LinkedIn:** [Flavio Augusto D'Avirro](https://linkedin.com/in/flaviodavirro)
+- 💻 **GitHub:** [FlavioKde](https://github.com/FlavioKde)
+
+---
+
+<p align="center">
+  <i>⭐️ Si te gusta lo que ves, ¡no dudes en darle estrella a algún repositorio o conectar conmigo!</i>
+</p>
