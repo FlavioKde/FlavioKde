@@ -107,7 +107,15 @@ I collaborated on a real-world project using agile methodologies with a focus on
 
 ---
 
-### 🌟 Proyectos Destacados
+## 🌟 Featured Projects
+
+### 📊 GitHub Stats Generator
+A GitHub statistics generator based on the GitHub API. Implemented in JavaScript/Node.js with modular architecture, unit and integration tests, deployed on Vercel using serverless functions.
+
+**Tech Stack:** JavaScript, Node.js, GitHub GraphQL API, Vercel Serverless Functions
+
+[![Repo]([![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/ci.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions))
+[![Demo](https://img.shields.io/badge/-Live_Demo-000000?style=flat-square&logo=vercel)](https://github-stats-generator.vercel.app)
 
 #### [**![GitHub](https://img.icons8.com/ios-glyphs/30/github.png) GitHub Stats**](https://github.com/FlavioKde/github-streak-stats-api)
 Generador de estadísticas de GitHub basado en la API de GitHub. Implementado en JavaScript/Node.js, con arquitectura modular, pruebas unitarias e integración, y desplegado en Vercel mediante funciones sin servidor.
