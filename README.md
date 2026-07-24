@@ -1,3 +1,26 @@
+<!-- Language Selector -->
+<p align="center">
+  <b>🇬🇧 English</b> | <a href="./README.es.md">🇪🇸 Español</a>
+</p>
+
+---
+
+<h1 align="center">👋 Hi, I'm Flavio Augusto D'Avirro</h1>
+<h3 align="center">Backend Developer | Java · Spring Boot · SQL · REST APIs</h3>
+
+---
+# 👋 Hey, i Flavio Augusto D'Avirro
+
+## 🚀 About Me
+
+I'm a backend developer with experience in **Java** and **Spring Boot**, complemented by knowledge in **PHP/Laravel** and fullstack development. I'm particularly interested in **incident analysis and resolution**, as well as **application maintenance** in real-world environments.
+
+My transition into IT strengthened my analytical skills and methodical approach to solving technical problems. I enjoy understanding how systems work, investigating bugs, and building clear, maintainable solutions.
+
+**Areas of interest:** Software Architecture, Clean Code, REST APIs, Cybersecurity, and Databases.
+
+---
+
 # 👋 Hola, soy Flavio Augusto D'Avirro
 
 ### Desarrollador Backend | Java · Spring Boot · SQL · APIs REST
