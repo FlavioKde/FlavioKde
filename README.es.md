@@ -99,26 +99,28 @@ Colaboré en un proyecto real aplicando metodologías ágiles con foco en autent
 
 ## 🌟 Proyectos Destacados
 
-### 📊 Generador de Estadísticas de GitHub
+#### [**![GitHub](https://img.icons8.com/ios-glyphs/30/github.png) GitHub Stats**](https://github.com/FlavioKde/github-streak-stats-api)
+
 Generador de estadísticas de GitHub basado en la API de GitHub. Implementado en JavaScript/Node.js, con arquitectura modular, pruebas unitarias e integración, y desplegado en Vercel mediante funciones sin servidor.
 
 **Tecnologías:** JavaScript, Node.js, GitHub GraphQL API, Vercel Serverless Functions
 
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/github-streak-stats-api/actions)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/build.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/github-streak-stats-api/actions) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/build.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions)
 
 ---
 
 ### 🃏 Blackjack Game
+
 Una implementación del clásico juego de Blackjack en Java. Incluye lógica de juego completa, manejo de estados y una arquitectura modular.
 
 **Tecnologías:** Spring Boot, Java, Gradle, JUnit, Swagger
 
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/blackjack-game) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)](https://github.com/FlavioKde/s05t01n01-blackjack/actions)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/s05t01n01-blackjack) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)](https://github.com/FlavioKde/s05t01n01-blackjack/actions)
 
 ---
 
 ### 🎨 Architecture Platform
+
 Plataforma web desarrollada para un estudio de arquitectura, con backend y frontend integrados, orientada a exhibir proyectos y propiedades disponibles para venta o alquiler. Actualmente trabajando en WebSockets para comunicación asíncrona.
 
 **Tecnologías:** Spring Boot, Spring Security, MongoDB, MySQL, Cloudinary, JUnit, Mockito, Gradle
