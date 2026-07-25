@@ -89,6 +89,7 @@ I collaborated on a real-world project using agile methodologies with a focus on
 
 [![GitHub Streak stats API](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde&v=3)](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde)
 
+
 ### 🔥 Contribution Streak
 
 [![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde&v=7)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
@@ -118,6 +119,13 @@ A GitHub statistics generator based on the GitHub API. Implemented in JavaScript
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/build.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions)
 
 #### [**🃏 Blackjack Game**](https://github.com/FlavioKde/s05t01n01-blackjack)
+
+A classic Blackjack game implementation in Java. Features complete game logic, state management, and a modular architecture.
+
+**Tech Stack:** Spring Boot, Java, Gradle, JUnit, Swagger
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/blackjack-game) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)](https://github.com/FlavioKde/s05t01n01-blackjack/actions)
+
 Una implementación del clásico juego de Blackjack en Java. Incluye lógica de juego completa, manejo de estados y una arquitectura modular.
 - **Tecnologías:** spring boot, Java, gradle, JUnit, swagger
 - [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)](https://github.com/FlavioKde/s05t01n01-blackjack/actions)
