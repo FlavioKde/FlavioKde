@@ -134,7 +134,7 @@ A web platform developed for an architecture studio, with integrated backend and
 
 **Architecture:** DDD (Domain-Driven Design)
 
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/architecture-platform)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/com.propydis.studio)
 
 ## 📫 Contact or Let's Work Together?
 
