@@ -104,7 +104,6 @@ Colaboré en un proyecto real aplicando metodologías ágiles con foco en autent
 ### 👁️ Visitas al perfil
 
 ![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=radical)
 
 ---
 
