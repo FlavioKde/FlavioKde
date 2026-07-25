@@ -90,7 +90,8 @@ Colaboré en un proyecto real aplicando metodologías ágiles con foco en autent
 <!-- Estas secciones se actualizarán automáticamente si usas los servicios correspondientes -->
 
 ### 🔢 Actividad general
-![FlavioKde's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioKde&show_icons=true&theme=radical)
+
+![WIP](https://img.shields.io/badge/status-WIP-orange?style=for-the-badge)
 
 ### 🧠 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=radical)
