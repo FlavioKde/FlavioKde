@@ -22,18 +22,18 @@ My transition into IT strengthened my analytical skills and methodical approach 
 
 ### 🛠️ Tech Stack
 
-**Lenguajes de programación:**  
+**Programing Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Frameworks y librerías:**  
+**Frameworks & Libraries:**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=java&logoColor=white)
 
-**Herramientas de desarrollo:**  
+**Development Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -41,12 +41,12 @@ My transition into IT strengthened my analytical skills and methodical approach 
 ![Gradle](https://img.shields.io/badge/build-Gradle-blueviolet)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-**Bases de datos:**  
+**Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-1C7EBB?style=flat-square&logo=h2&logoColor=white)
 
-**Documentación y diseño Apis Rest:**
+**API & Testing:**
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 **Cliente para pruebas y automatización APis:**
@@ -126,14 +126,15 @@ A classic Blackjack game implementation in Java. Features complete game logic, s
 
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/blackjack-game) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)](https://github.com/FlavioKde/s05t01n01-blackjack/actions)
 
-Una implementación del clásico juego de Blackjack en Java. Incluye lógica de juego completa, manejo de estados y una arquitectura modular.
-- **Tecnologías:** spring boot, Java, gradle, JUnit, swagger
-- [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)](https://github.com/FlavioKde/s05t01n01-blackjack/actions)
-
 #### [**🎨 Architecture Platform**](https://github.com/FlavioKde/com.propydis.studio)
-Plataforma web desarrollada para un estudio de arquitectura, con backend y frontend integrados, orientada a exhibir proyectos y propiedades disponibles para venta o alquiler. Actualmente trabajando en WebSockets para comunicación asíncrona.
-- **Tecnologías:** Spring boot, Spring Security, MongoDb, Mysql, Cloudinary, Junit, Mockito, Gradle.
-- **arquitectura:** DDD.
+
+A web platform developed for an architecture studio, with integrated backend and frontend, focused on showcasing projects and properties available for sale or rent. Currently working on WebSockets for asynchronous communication.
+
+**Tech Stack:** Spring Boot, Spring Security, MongoDB, MySQL, Cloudinary, JUnit, Mockito, Gradle
+
+**Architecture:** DDD (Domain-Driven Design)
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/architecture-platform)
 
 ## 📫 Contact or Let's Work Together?
 
