@@ -104,8 +104,8 @@ Generador de estadísticas de GitHub basado en la API de GitHub. Implementado en
 
 **Tecnologías:** JavaScript, Node.js, GitHub GraphQL API, Vercel Serverless Functions
 
-[![Repo](https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/github-stats)
-[![Demo](https://img.shields.io/badge/-Demo_en_vivo-000000?style=flat-square&logo=vercel)](https://github-stats-generator.vercel.app)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/github-streak-stats-api/actions)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/build.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions)
 
 ---
 
@@ -114,7 +114,7 @@ Una implementación del clásico juego de Blackjack en Java. Incluye lógica de 
 
 **Tecnologías:** Spring Boot, Java, Gradle, JUnit, Swagger
 
-[![Repo](https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/blackjack-game)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/blackjack-game) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/s05t01n01-blackjack/build.yml)](https://github.com/FlavioKde/s05t01n01-blackjack/actions)
 
 ---
 
@@ -125,7 +125,7 @@ Plataforma web desarrollada para un estudio de arquitectura, con backend y front
 
 **Arquitectura:** DDD (Domain-Driven Design)
 
-[![Repo](https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/architecture-platform)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/com.propydis.studio)
 
 ---
 
