@@ -1,6 +1,6 @@
 <!-- Language Selector -->
 <p align="center">
-  <b>🇬🇧 English</b> | <a href="./README.es.md">🇪🇸 Español</a>
+  <b>🇬🇧 English</b> | <a href="https://github.com/FlavioKde/FlavioKde/blob/main/README.es.md">🇪🇸 Español</a>
 </p>
 
 ---
