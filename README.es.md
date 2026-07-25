@@ -94,13 +94,17 @@ Colaboré en un proyecto real aplicando metodologías ágiles con foco en autent
 ![WIP](https://img.shields.io/badge/status-WIP-orange?style=for-the-badge)
 
 ### 🧠 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=radical)
+
+[![GitHub Streak stats API](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde&v=3)](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde)
 
 ### 🔥 Racha de contribuciones
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlavioKde&theme=radical)
+
+[![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde&v=7)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
 
 ### 👁️ Visitas al perfil
-![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&color=blueviolet)
+
+![Profile views](https://komarev.com/ghpvc/?username=FlavioKde&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioKde&layout=compact&theme=radical)
 
 ---
 
