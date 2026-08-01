@@ -111,7 +111,7 @@ A GitHub statistics generator based on the GitHub API. Implemented in JavaScript
 **Tech Stack:** JavaScript, Node.js, GitHub GraphQL API, Vercel Serverless Functions
 
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/FlavioKde/github-streak-stats-api/actions)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/build.yml)](https://github.com/FlavioKde/github-streak-stats-api/actions)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/FlavioKde/github-streak-stats-api/build.yml?branch=main)](https://github.com/FlavioKde/github-streak-stats-api/actions)
 
 #### [**🃏 Blackjack Game**](https://github.com/FlavioKde/s05t01n01-blackjack)
 
