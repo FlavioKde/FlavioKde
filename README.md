@@ -87,7 +87,7 @@ I collaborated on a real-world project using agile methodologies with a focus on
 ### 🔥 Contribution Streak
 
 
-[![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde&v=7)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
+[![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde&v=8)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
 
 ### 👁️ Profile views
 
