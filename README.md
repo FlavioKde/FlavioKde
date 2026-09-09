@@ -81,13 +81,13 @@ I collaborated on a real-world project using agile methodologies with a focus on
 
 ### 🧠 Most Used Languages
 
-[![GitHub Streak stats API](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde&v=3)](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde)
+[![GitHub Streak stats API](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde&v=4)](https://github-streak-stats-api.vercel.app/api/languages/svg?user=FlavioKde)
 
 
 ### 🔥 Contribution Streak
 
 
-[![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde&v=8)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
+[![GitHub Streak](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde&v=9)](https://github-streak-stats-api.vercel.app/api/streak/svg?user=FlavioKde)
 
 ### 👁️ Profile views
 
